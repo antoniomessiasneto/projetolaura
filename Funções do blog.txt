@@ -1,0 +1,31 @@
+Funções do blog:
+Público:
+• Visualizar todos os posts na Pagina principal.
+• Ao clicar no titulo do post, visualizar a postagem 
+completa.
+• Adicionar comentários.
+• Criar uma nova conta como editor.
+• Acessos: Pagina Inicial, Pagina do Post, Pagina de 
+Cadastro, Pagina de Login.
+Editor:
+• Todas as funcionalidade de um 
+usuário publico.
+• Acessos: Pagina de gerencia de 
+posts e a Pagina de editar perfil.
+• Atualizar suas informações de seu 
+perfil: nome, senha, email.
+• Visualizar todos os seus posts.
+• Editar seus posts.
+• Deletar seus posts.
+• Criar novos posts.
+• Deletar comentários.
+Admin:
+• Todas as funcionalidade de um 
+usuário publico e Editor.
+• Atualizar suas informações de usuário: nome, 
+senha, e-mail, tipo de acesso.
+• Acesso a gerencia de usuários.
+• Listar os usuários.
+• Remover os usuários.
+• Editar as informações e o acesso dos 
+usuários
